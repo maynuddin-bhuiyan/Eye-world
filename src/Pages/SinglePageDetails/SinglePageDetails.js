@@ -44,7 +44,7 @@ const SinglePageDetails = () => {
 
   useEffect(() => {
 
-    fetch('http://localhost:7000/singlepage')
+    fetch('https://salty-citadel-01065.herokuapp.com/singlepage')
       .then(res => res.json())
       .then(data => {
         setSinglePage(data);

@@ -11,7 +11,7 @@ const ReviewAll = () => {
 
     useEffect( () => {
 
-        fetch('http://localhost:7000/review')
+        fetch('https://salty-citadel-01065.herokuapp.com/review')
         .then(res => res.json())
         .then(data => setreviewAll(data))
     },

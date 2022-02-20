@@ -7,7 +7,7 @@ const useData = () => {
 
     //Loaed Data
     useEffect(() => {
-        fetch('http://localhost:7000/security-camera')
+        fetch('https://salty-citadel-01065.herokuapp.com/security-camera')
             .then(res => res.json())
             .then(data => setCreamra(data))
     },
