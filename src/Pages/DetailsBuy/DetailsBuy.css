@@ -1,0 +1,18 @@
+.DetailsBuy{
+    margin: 100px;
+    position: relative;
+}
+
+
+.MyOrder{
+    position: absolute;
+    top: 0px;
+    right: 200px;
+;
+}
+
+
+#outlined-basic{
+    padding: 15px 20px !important;
+    margin-left: 10px !important;
+}

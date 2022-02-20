@@ -1,0 +1,30 @@
+.Footer {
+    
+    background: url(../../../images/Footer/Footer.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 580px;
+    margin-top: 40px;
+
+
+}
+
+
+
+.Footer_Text {
+    width: 1420px !important;
+    margin-left: 100px !important;
+
+}
+
+.Footer_Text .Text{
+    
+    margin-top: 250px;
+    color: #FFFFFF;
+}
+
+.Text a img {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}

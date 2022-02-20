@@ -1,0 +1,49 @@
+
+
+
+.srevice{
+    position: relative;
+    height: 400px;
+    margin-bottom: 50px;
+    
+    
+}
+
+
+.srevice img{
+    width: 100%;
+    height: 150px;
+}
+
+
+.Icon{
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    cursor: pointer;
+}
+
+.FavoritIcon{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    cursor: pointer;
+}
+
+
+.LikeIcon{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    cursor: pointer;
+}
+
+
+
+.text-head{
+    position: absolute;
+    left: 10px;
+    bottom: 60px;
+    cursor: pointer;
+}
+

@@ -1,0 +1,30 @@
+.Log-In{
+    background:  url(../../../images/DetailsPage/cctv-1309255.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.Log-In{
+    opacity: 0.8;
+   
+  }
+
+  .Log-In h1{
+    margin-top: 0px;
+    padding-top: 50px;
+  }
+
+
+
+Input{
+    padding:  30px !important;;
+}
+
+
+  .Button-Images img{
+    width: 50px;
+  }

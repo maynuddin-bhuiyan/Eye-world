@@ -1,0 +1,7 @@
+.SinglePage{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
